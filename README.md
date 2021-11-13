@@ -13,15 +13,21 @@ The Ground Truth Labelling App was used to label Traffic lights in the input tra
 The use of the ground Truth Labelling App to label objects was studied and implemented. The process of creating an ACF detector and using it to label objects in video data was studied.
 
 ## 3.	Implementation
+
 <p align="center">
-<img src = "https://github.com/SadhanaSai/Traffic_Light_Detection/blob/main/images/fig1.jpg" alt = "Fig 1: Process Flowchart"> 
+ <img src = "https://github.com/SadhanaSai/Traffic_Light_Detection/blob/main/images/fig1.jpg"/>
+    <br>
+    <em>Fig 1: Process Flowchart</em>
 </p>
+
 
 ## 4.	Results
 The figure below (Fig 2) illustrates the result produced by the system. A bounding box showing the label was created when the Traffic light of the respective color was detected.
- 
+
 <p align="center">
-<img src = "https://github.com/SadhanaSai/Traffic_Light_Detection/blob/main/images/fig2.png" alt = "Fig 2: Representation of the results"> 
+ <img src = "https://github.com/SadhanaSai/Traffic_Light_Detection/blob/main/images/fig2.png"/>
+    <br>
+    <em>Fig 2: Representation of the results</em>
 </p>
 
 ## 5.	Conclusion
