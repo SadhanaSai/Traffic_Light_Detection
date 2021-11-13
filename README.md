@@ -31,7 +31,9 @@ Through the process of creating this system, I have learned how to label videos,
  
 ## 6.	Scope for improvement
 •	Use of webcam to write the input video to the detector needs to be made more efficient in order to make this system viable for use in real life.
+
 •	A more diverse training set with varied environmental conditions needs to be used to make the system robust.
+
 •	An algorithm to detect the Traffic light objects with a greater accuracy needs to be written instead of using in-built algorithms.
 
 ## References
