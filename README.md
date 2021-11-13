@@ -26,9 +26,10 @@ The figure below (Fig 2) illustrates the result produced by the system. A boundi
 
 ## 5.	Conclusion
 The system recognizes the color of the traffic lights and displays the label on the videos. The process of recognition and labeling depends highly on the computer’s speed and processing capabilities. The accuracy of color prediction in this system is not very high.
- Through the process of creating this system, I have learned how to label videos, train the object detectors, and use these detectors to create labels in test input videos using MATLAB. This helped me gain insights on how the pre-existing algorithms in MATLAB work, and the pros and cons of using them to train models for object detection.
+
+Through the process of creating this system, I have learned how to label videos, train the object detectors, and use these detectors to create labels in test input videos using MATLAB. This helped me gain insights on how the pre-existing algorithms in MATLAB work, and the pros and cons of using them to train models for object detection.
  
-## 6.	How can 
+## 6.	Scope for improvement
 •	Use of webcam to write the input video to the detector needs to be made more efficient in order to make this system viable for use in real life.
 •	A more diverse training set with varied environmental conditions needs to be used to make the system robust.
 •	An algorithm to detect the Traffic light objects with a greater accuracy needs to be written instead of using in-built algorithms.
